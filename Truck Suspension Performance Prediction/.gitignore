@@ -1,0 +1,10 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables file
+.env
+
+# Ignore other files
+.DS_Store  # macOS
+.vscode/   # Visual Studio Code settings
